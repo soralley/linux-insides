@@ -1,4 +1,4 @@
-Contributing
+##Contributing
 ================================================================================
 
 If you want to contribute to [linux-insides](https://github.com/0xAX/linux-insides), please follow these simple rules:
